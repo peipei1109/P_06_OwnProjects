@@ -1,0 +1,43 @@
+Distinguishing Topical and Social Groups Based on Common Identity and Bond Theory
+Traffic measurement and route recommendation system for Mass Rapid Transit
+E-commerce in your Inbox: Cross-domain product recommendations at scale
+Annotating needles in the haystack without looking: Product information extraction from emails
+Voltage Correlations in Smart Meter Data
+Guilt by Association: Large Scale Malware Detection by Mining File-relation Graphs
+Community Detection in Graphs through Correlation
+Fast Algorithms for Comprehensive N-point Correlation Estimates
+Subspace Correlation Clustering: Finding Locally Correlated Dimensions in Subspace Projections of the Data
+Denser than the densest subgraph: extracting optimal quasi-cliques with quality guarantees
+Multi-Label Classification by Mining Label and Instance Correlations from Heterogeneous Information Networks
+Silence is also evidence: Interpreting dwell time for recommendation from Psychological Perspective
+Paper ID: 1114 - How to select one preferred assertional-based repair from inconsistent and uncertain Description Logic knowledge bases?
+Learning Canonical Correlations of Paired Tensor Sets via Tensor-to-Vector Projection
+Combining RCC5 relations with betweenness information
+Protein Function Prediction via Laplacian Network Partitioning Incorporating Function Category Correlations
+Using subcategorization knowledge to improve case prediction for translation to German
+Multilabel Classification with Label Correlations and Missing Labels
+Intra-View and Inter-View Supervised Correlation Analysis for Multi-View Feature Learning
+Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization
+Cross-Modal Image Clustering via Canonical Correlation Analysis / 151
+OMNI-Prop: Seamless Node Classification on Arbitrary Label Correlation / 3122
+Not Quite the Same: Identity Constraints for the Web of Linked Data
+Flexible Models for Discovering Topic Correlation across Weakly-Related CollectionsJINGWEI ZHANG
+Named entity recognition with document-specific KB tag gazetteers
+Learning to identify the best contexts for knowledge-based WSD
+Well-argued recommendation: adaptive models based on words in recommender systems
+Exploring Shared Subspace and Joint Sparsity for Canonical Correlation Analysis
+Online User Location Inference Exploiting Spatiotemporal Correlations in Social Streams
+Entity oriented Task extraction from query logs
+Learning relatedness measures for entity linking
+URL Tree: Efficient unsupervised content extraction from streams of Web documents
+Local Correlation Detection with Linearity Enhancement in Streaming Data
+Exploring Shared Subspace and Joint Sparsity for Canonical Correlation Analysis
+Online User Location Inference Exploiting Spatiotemporal Correlations in Social Streams
+Entity oriented Task extraction from query logs
+	Image-based recommendations on styles and substitutes
+Social and Categorical Correlations for Point-of-Interest Recommendations
+	From Queries to Cards: Re-ranking proactive card recommendations based on reactive search history
+Computing and applying topic-level user interactions in microblog recommendation
+The Correlation between Cluster Hypothesis Tests and the Effectiveness of Cluster-Based Retrieval
+On Correlation of Absence Time and Search Effectiveness
+RecSys for Distributed Events: Investigating the influence of recommendations on visitor plans

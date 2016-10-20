@@ -1,0 +1,49 @@
+A DEPENDENCY-BASED NEURAL NETWORK FOR RELATION CLASSIFICATION
+A Unified Probabilistic Model of User Activities and Relations on Social Networking Sites
+Bayesian Poisson Tensor Factorization for Inferring Multilateral Relations from Sparse Dyadic Event Counts
+Bilingual Active Learning for Relation Classification via Pseudo Parallel Corpora
+CLASSIFYING RELATIONS BY RANKING WITH CONVOLUTIONAL NEURAL NETWORKS
+Classifying Relations via Long Short Term Memory Networks along Shortest Dependency PathsYAN XU
+Collective Spammer Detection in Evolving Multi-Relational Social Networks
+Combining RCC5 relations with betweenness information
+Community Detection in Graphs through Correlation
+Coupled Behavior Analysis for Capturing Coupling Relationships in Group-based Market Manipulations
+Discovering and Exploiting Deterministic Label Relationships in Multi-Label Learning
+Distant Supervision for Relation Extraction via Piecewise Convolutional Neural NetworksDAOJIAN ZENG
+Embedding Semantic Relations into Word Representations
+Exploiting Competition Relationship for Robust Visual Recognition
+Extracting Condition-Opinion Relations Toward Fine-grained Opinion MiningYUKI NAKAYAMA AND ATSUSHI FUJII
+Extracting Definitions and Hypernym Relations relying on Syntactic Dependencies and Support Vector Machines
+Generalized Relational Topic Models with Fast Sampling Algorithms
+Improved Relation Extraction with Feature-Rich Compositional Embedding ModelsMATTHEW R. GORMLEY
+Incremental Joint Extraction of Entity Mentions and Relations
+Inducing Probabilistic Relational Rules from Probabilistic Examples
+Influence Diffusion Dynamics and Influence Maximization in Social Networks with Friend and Foe Relationships
+Intra-View and Inter-View Supervised Correlation Analysis for Multi-View Feature Learning
+Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization
+Learning Canonical Correlations of Paired Tensor Sets via Tensor-to-Vector Projection
+Learning High-Order Task Relationships in Multi-Task Learning
+Learning Relational Kalman Filtering
+LEARNING TO EXPLAIN ENTITY RELATIONSHIPS IN KNOWLEDGE GRAPHS
+LEARNING WORD REPRESENTATIONS BY JOINTLY MODELING SYNTAGMATIC AND PARADIGMATIC RELATIONS
+Leveraging Synthetic Discourse Data via Multi-task Learning for Implicit Discourse Relation Recognition
+MACHINE COMPREHENSION WITH DISCOURSE RELATIONS
+Mining Equivalent Relations from Linked Data
+Mining for Analogous Tuples from an Entity-Relation Graph
+Multi-Label Classification by Mining Label and Instance Correlations from Heterogeneous Information Networks
+Multi-Label Relational Neighbor Classification using Social Context Features
+Multilabel Classification with Label Correlations and Missing Labels
+Protein Function Prediction via Laplacian Network Partitioning Incorporating Function Category Correlations
+Refer-to-as Relations as Semantic Knowledge
+Relation Extraction with Distant Supervision from Incomplete Knowledge Bases
+Relation Regularized Collaborative Topic Regression for Tag Recommendation
+RELATIONAL INFORMATION FOR LEARNING FROM STRUCTURED TEXT PAIRS
+Representing Aggregators in Relational Probabilistic Models
+Robust Domain Adaptation for Relation Extraction via Clustering Consistency
+Sieve-Based Spatial Relation Extraction with Expanding Parse TreesJENNIFER D'SOUZA AND VINCENT NG
+SPECTRAL SEMI-SUPERVISED DISCOURSE RELATION CLASSIFICATION
+Temporal Signals Help Label Temporal Relations
+The Omni-word Feature and Soft Constraint for Chinese Relation Extraction
+Towards Accurate Distant Supervision for Relational Facts Extraction
+Verification of Relational Multiagent Systems with Data Types
+Why-Question Answering using Intra- and Inter-Sentential Causal Relations

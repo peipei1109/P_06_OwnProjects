@@ -1,0 +1,6 @@
+ClusType_ Effective Entity Recognition and Typing by Relation Phrase-Based Clustering
+IMPROVING NAME ENTITY RECOGNITION IN TWEETS VIA DETECTING NON-STANDARD WORDS
+Joint Entity Recognition and DisambiguationGANG LUO
+Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
+Named Entity Recognition using Cross-lingual Resources
+Re-ranking for Joint Named-Entity Recognition and Linking

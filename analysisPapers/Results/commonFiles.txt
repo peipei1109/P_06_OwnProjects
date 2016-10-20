@@ -1,0 +1,54 @@
+A HIERARCHICAL KNOWLEDGE REPRESENTATION FOR EXPERT FINDING ON SOCIAL MEDIA
+A Knowledge Compilation Map for Ordered Real-Valued Decision Diagrams
+A KNOWLEDGE-INTENSIVE MODEL FOR EXTRACTING INFORMATION FROM PREPOSITIONAL PHRASES
+Acquiring Commonsense Knowledge for Sentiment Analysis through Human Computation
+Answering Conjunctive Queries over EL Knowledge Bases with Transitive and Reflexive Roles
+Answering Elementary Science Questions by Constructing Coherent Scenes using Background Knowledge
+Automatic Extraction of Efficient Axiom Sets from Large Knowledge Bases
+Boosting Cross-lingual Knowledge Linking via Concept Annotation
+COMPOSITIONAL VECTOR SPACE MODELS FOR KNOWLEDGE BASE COMPLETION
+Consistent Knowledge Discovery from Evolving Ontologies
+Cross-Lingual Knowledge Validation Based Taxonomy Derivation from Heterogeneous Online Wikis
+Efficient Algorithm for Incorporating Knowledge into Topic ModelsYI YANG
+Efficient and Expressive Knowledge Base Completion Using Subgraph Feature ExtractionMATT GARDNER AND TOM MITCHELL
+ENCODING DISTRIBUTIONAL SEMANTICS INTO TRIPLE-BASED KNOWLEDGE RANKING FOR DOCUMENT ENRICHMENT
+English Light Verb Construction Identification Using Lexical Knowledge
+Exchanging OWL 2 QL Knowledge Bases
+Exploiting Relevance Feedback in Knowledge Graph Search
+Exploring Knowledge Engineering Strategies in Designing
+Graph Traversal Methods for Reasoning in Large Knowledge-Based Systems
+Handling Open Knowledge for Service Robots
+Improving Question Retrieval in Community Question Answering Using World Knowledge
+INCORPORATING SYNTACTIC KNOWLEDGE INTO RECURSIVE NEURAL NETWORKS FOR SENTIMENT ANALYSIS
+Incorporating World Knowledge to Document Clustering via Heterogeneous Information Networks
+Knowledge Base Completion Using Embeddings and Rules
+Knowledge Base Inference using Bridging Entities
+Knowledge Base Unification via Sense-based Embeddings and DisambiguationCLAUDIO DELLI BOVI
+Knowledge Graph Embedding by Translating on Hyperplanes
+KNOWLEDGE GRAPH EMBEDDING VIA DYNAMIC MAPPING MATRIX
+Knowledge-Based Probabilistic Logic Learning
+LEARN TO ADAPT CREDIBLE KNOWLEDGE IN CROSS-LINGUAL SENTIMENT ANALYSIS
+LEARNING LEXICAL EMBEDDINGS WITH SYNTACTIC AND LEXICOGRAPHIC KNOWLEDGE
+Learning Plausible Inferences from Semantic Web Knowledge by Combining Analogical Generalization with Structured Logistic Regression
+LEARNING SEMANTIC WORD EMBEDDINGS BASED ON ORDINAL KNOWLEDGE CONSTRAINTS
+LEARNING TO EXPLAIN ENTITY RELATIONSHIPS IN KNOWLEDGE GRAPHS
+Leveraging Knowledge Bases for Contextual Entity Exploration
+Leveraging Multi-Domain Prior Knowledge in Topic Models
+Linking Named Entities in Tweets with Knowledge Base via User Interest Modeling
+Open Question Answering Over Curated and Extracted Knowledge Bases
+Predicting Knowledge in An Ontology Stream
+Probabilistic Knowledge-Based Programs
+Querying Inconsistent Description Logic Knowledge Bases under Preferred Repair Semantics
+Refer-to-as Relations as Semantic Knowledge
+Relation Extraction with Distant Supervision from Incomplete Knowledge Bases
+Representing Text for Joint Embedding of Text and Knowledge BasesKRISTINA TOUTANOVA
+Scalable Maintenance of Knowledge Discovery in an Ontology Stream
+SEMANTIC INTERPRETATION OF SUPERLATIVE EXPRESSIONS VIA STRUCTURED KNOWLEDGE BASES
+SEMANTICALLY SMOOTH KNOWLEDGE GRAPH EMBEDDING
+Solving Semantic Problems Using Contexts Extracted from Knowledge Graphs
+STACKED ENSEMBLES OF INFORMATION EXTRACTORS FOR KNOWLEDGE-BASE POPULATION
+Teamwork with Limited Knowledge of Teammates
+Using Frame Semantics for Knowledge Extraction from Twitter
+Using subcategorization knowledge to improve case prediction for translation to German
+Validating and Extending Semantic Knowledge Bases using Video Games with a Purpose
+Verification of Inconsistency-Tolerant Knowledge and Action Bases

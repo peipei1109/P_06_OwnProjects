@@ -1,0 +1,51 @@
+ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering
+Mining Discriminative Components With Low-Rank And Sparsity Constraints for Face Recognition
+Using a Recursive Neural Network to Learn an Agent's Decision Model for Plan Recognition
+Word-error correction of continuous speech recognition based on Normalized Relevance Distance
+Combining Eye Movements and EEG to Enhance Emotion Recognition
+Video Covariance Matrix Logarithm for Human Action Recognition in Videos
+A Fast Goal Recognition Technique based on Interaction Estimates
+Regularized Latent Least Square Regression for Cross Pose Face Recognition
+: Describing Trajectories of Human Joints for Action Recognition
+Human Action Recognition Using a Temporal Hierarchy of Covariance Descriptors on 3D Joint Locations
+Controlling the Hypothesis Space in Probabilistic Plan Recognition
+IMPROVING NAME ENTITY RECOGNITION IN TWEETS VIA DETECTING NON-STANDARD WORDS
+A SIMULTANEOUS RECOGNITION FRAMEWORK FOR THE SPOKEN LANGUAGE UNDERSTANDING MODULE OF INTELLIGENT PERSONAL ASSISTANT SOFTWARE ON SMART PHONES
+Joint Word Alignment and Bilingual Named Entity Recognition Using Dual Decomposition
+Leveraging Synthetic Discourse Data via Multi-task Learning for Implicit Discourse Relation Recognition
+Mining Informal Language from Chinese Microtext: Joint Word Recognition and Segmentation
+Named Entity Recognition using Cross-lingual Resources: Arabic as an Example
+Ensemble Reranking with Linguistic and Semantic Features for Arabic Character Recognition
+Modeling Human Inference Process for Textual Entailment Recognition
+Sign Language Lexical Recognition With Propositional Dynamic Logic
+Sketch Recognition with Natural Correction and Editing
+Latent Low-Rank Transfer Subspace Learning for Missing Modality Recognition
+Improving Domain-Independent Cloud-Based Speech Recognition with Domain-Dependent Phonetic Post-Processing
+Exploiting Competition Relationship for Robust Visual Recognition
+Uncorrelated Multi-View Discrimination Dictionary Learning for Recognition
+Learning Low-Rank Representations with Classwise Block-Diagonal Structure for Robust Face Recognition
+On Hair Recognition in the Wild by Machine
+Using Description Logics for RDF Constraint Checking and Closed-World Recognition
+Goal Recognition Design for Non-Optimal Agents
+for Zero-Shot Action Recognition
+Building Effective Representations for Sketch Recognition
+Learning Predictable and Discriminative Attributes for Visual Recognition
+Named Entity Recognition in Travel-Related Search Queries
+Vesselness Features and the Inverse Compositional AAM for Robust Face Recognition using Thermal IR
+Incremental Learning Framework for Indoor Scene Recognition
+Joint Object and Pose Recognition Using Homeomorphic Manifold Analysis
+Multi-Target Detection and Recognition by UAVs Using Online POMDPs
+Timed Probabilistic Automaton: A Bridge between Raven and Song Scope for Automatic Species Recognition
+Physical Activity Recognition from Accelerometer Data Using a Multi-Scale Ensemble Method
+Multiagent Stochastic Planning with Bayesian Policy Recognition
+Intra-sentential Zero Anaphora Resolution using Subject Sharing RecognitionRYU IIDA
+Joint Entity Recognition and DisambiguationGANG LUO
+Automatic recognition of habituals: a three-way classification of clausal aspectANNEMARIE FRIEDRICH AND MANFRED PINKAL
+Humor Recognition and Humor Anchor ExtractionDIYI YANG
+Named entity recognition with document-specific KB tag gazetteers
+Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
+Shallow Convolutional Neural Network for Implicit Discourse Relation Recognition
+Exploiting language models for visual recognition
+Cascading Collective Classification for Bridging Anaphora Recognition using a Rich Linguistic Feature Set
+Using Soft Constraints in Joint Inference for Clinical Concept Recognition
+Re-ranking for Joint Named-Entity Recognition and Linking

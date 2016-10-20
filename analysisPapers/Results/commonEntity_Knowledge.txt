@@ -1,0 +1,7 @@
+On Building Entity Recommender Systems Using User Click Log and Freebase Knowledge
+Leveraging Knowledge Bases for Contextual Entity Exploration
+LEARNING TO EXPLAIN ENTITY RELATIONSHIPS IN KNOWLEDGE GRAPHS
+Learning Entity and Relation Embeddings for Knowledge Graph Completion
+An Entity-centric Approach for Overcoming Knowledge Graph Sparsity
+Aligning Knowledge and Text Embeddings by Entity Descriptions
+Entity Query Feature Expansion using Knowledge Base Links

@@ -1,0 +1,460 @@
+Summarizing Complex Events: a Cross-modal Solution of Storylines Extraction and Reconstruction
+Unsupervised Induction of Cross-lingual Semantic Relations
+Unsupervised Relation Extraction with General Domain Knowledge
+Averaged Recursive Neural Networks for Semantic Relation Classification
+Classifying Message Board Posts with an Extracted Lexicon of Patient Attributes
+Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction
+Improving Learning and Inference in a Large Knowledge-base using Latent Syntactic Cues
+Microblog Entity Linking by Leveraging Multiple Posts
+Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems!
+Semantic Approximate Keyword Query Based on Keyword and Query Coupling Relationship Analysis
+ExpressQ: Enhancing the Expressive Power of Relational Keyword Queries
+SocialTransfer: Transferring Social Knowledge for Cold-Start Crowdsourcing
+Robust Entity Linking via Random Walks
+Distance or Coverage? Retrieving Knowledge-Rich Documents from Enterprise Text Collectionsm
+Forest-Based Dynamic Sorted Neighborhood Indexing for Real-Time Entity Resolution
+Predicting Relationship Occurrence Time In Heterogeneous Networks Through Dynamic Frequent Prototype Network Mining
+A Retrievability Analysis: Exploring the Relationship Between Retrieval Bias and Retrieval Performance
+Mining Semi-Structured Online Knowledge Bases to Answer Natural Language Questions on Community QA Websites
+Proposing and Validating a Semantic Movie Retrieval Model Based on Knowledge Structure
+Exploring Shared Subspace and Joint Sparsity for Canonical Correlation Analysis
+A Fresh Look on Knowledge Bases: Distilling Named Events from News
+EgoCentric: Ego Networks for Knowledge-based Short Text Classification
+Modeling Topic Diffusion in Multi-Relational Bibliographic Information Networks
+Twitter Opinion Topic Model: Extracting Product Opinions from Tweets by leveraging Hashtags and Sentiment Lexicon
+Computing Multi-Relational Sufficient Statistics for  Large Databases
+Generative Modeling of Entity Comparisons in Text
+PatentDom: Analyzing Technology Relationship on Multi-View Patent Graphs
+Improving Word Representations with Relation Knowledge and Grouping Knowledge
+Online User Location Inference Exploiting Spatiotemporal Correlations in Social Streams
+Optimizing Multi-Relational Factorization Models for Multiple Target Relations
+Active Exploration in Networks: Using Probabilistic Relationships for Learning and Inference
+What a Nasty day: Exploring Mood-Weather Relationship from Twitter
+Entity oriented Task extraction from query logs
+A Problem-Action Relation Extraction Based on Causality Patterns of Clinical Events in Discharge Summaries
+or Serendipitous Entity Search on User-generated Content
+Characterizing the Relation between Query Sequences and User Satisfaction
+Entity-Centric Document Filtering: Boosting Feature Mapping through Meta-Features
+Structured Positional Entity Language Model for Enterprise Entity Retrieval
+Learning relatedness measures for entity linking
+URL Tree: Efficient unsupervised content extraction from streams of Web documents
+Transferring Knowledge with Source Selection to Learn IR Functions on Unlabeled Collections
+Learning Open-domain Comparable Entity Graphs from User Search Queries
+Discovering Coherent Topics using General Knowledge
+Toward Advice Mining: Advanced Conditional Random Fields for Extracting Advice-revealing Text Unit
+Information Extraction as a Filtering Task
+Web News Extraction via Path Ratios
+Entity Disambiguation in Anonymized Graphs Using Graph Kernels
+Computing Term Similarity by Large Probabilistic isA Knowledge
+Parallel Motif Extraction from Very Long Sequences
+Assessing Sparse Information Extraction using Semantic Contexts
+Re-ranking for Joint Named-Entity Recognition and Linking
+Mining Entity Attribute Synonyms via Compact Clustering
+Toward Public Health Surveillance: Discovering Health-Related Knowledge in Social Media Using Heterogeneous Semantic-Enhanced Features
+Extraction and Integration of Web Data by End-Users
+Local Correlation Detection with Linearity Enhancement in Streaming Data
+A New Operator for Efficient Stream-Relation Join Processing in Data Streaming Engines
+Semantic Approximate Keyword Query Based on Keyword and Query Coupling Relationship Analysis
+ExpressQ: Enhancing the Expressive Power of Relational Keyword Queries
+SocialTransfer: Transferring Social Knowledge for Cold-Start Crowdsourcing
+Robust Entity Linking via Random Walks
+Distance or Coverage? Retrieving Knowledge-Rich Documents from Enterprise Text Collectionsm
+Forest-Based Dynamic Sorted Neighborhood Indexing for Real-Time Entity Resolution
+Predicting Relationship Occurrence Time In Heterogeneous Networks Through Dynamic Frequent Prototype Network Mining
+A Retrievability Analysis: Exploring the Relationship Between Retrieval Bias and Retrieval Performance
+Mining Semi-Structured Online Knowledge Bases to Answer Natural Language Questions on Community QA Websites
+Proposing and Validating a Semantic Movie Retrieval Model Based on Knowledge Structure
+Exploring Shared Subspace and Joint Sparsity for Canonical Correlation Analysis
+A Fresh Look on Knowledge Bases: Distilling Named Events from News
+EgoCentric: Ego Networks for Knowledge-based Short Text Classification
+Modeling Topic Diffusion in Multi-Relational Bibliographic Information Networks
+Twitter Opinion Topic Model: Extracting Product Opinions from Tweets by leveraging Hashtags and Sentiment Lexicon
+Computing Multi-Relational Sufficient Statistics for  Large Databases
+Generative Modeling of Entity Comparisons in Text
+PatentDom: Analyzing Technology Relationship on Multi-View Patent Graphs
+Improving Word Representations with Relation Knowledge and Grouping Knowledge
+Online User Location Inference Exploiting Spatiotemporal Correlations in Social Streams
+Optimizing Multi-Relational Factorization Models for Multiple Target Relations
+Active Exploration in Networks: Using Probabilistic Relationships for Learning and Inference
+What a Nasty day: Exploring Mood-Weather Relationship from Twitter
+Entity oriented Task extraction from query logs
+A Problem-Action Relation Extraction Based on Causality Patterns of Clinical Events in Discharge Summaries
+	Relevance Scores for Triples from Type-Like Relations
+	Fielded Sequential Dependence Model for Ad-Hoc Entity Retrieval in the Web of Data
+	Learning to Extract Local Events from the Web
+Social and Categorical Correlations for Point-of-Interest Recommendations
+	Leveraging Procedural Knowledge Base for Task-oriented Search
+	On The Relation Between Assessor�s Agreement and Accuracy in Gamified Relevance Assessment
+	An Entity Class-Dependent Discriminative Mixture Model for Cumulative Citation Recommendation
+Predicting Previous Version of a Product Entity
+Learning Sufficient Queries for Entity Filtering
+Query Performance Prediction for Entity Retrieval
+The Correlation between Cluster Hypothesis Tests and the Effectiveness of Cluster-Based Retrieval
+On Correlation of Absence Time and Search Effectiveness
+An Event Extraction Model based on a Timeline and User Reliability Analysis on Twitter
+Fine-Grained Location Extraction from Tweets with Temporal Awareness
+Entity Query Feature Expansion using Knowledge Base Links
+Leveraging Knowledge across Media for Spammer Detection in Microblogging
+CTSUM: Extracting More Certain Summaries for News Articles
+Extracting Query Facets from Search Results
+A Test Collection for Entity Search in DBpedia
+Exploring Semi-Automatic Nugget Extraction for Japanese One Click Access Evaluation
+A Weakly-Supervised Detection of Entity Central Documents in a Stream
+The Cluster Hypothesis for Entity Oriented Search
+A Novel Topic Model for Automatic Term Extraction
+Extractive Summarisation via Sentence Removal: Condensing Relevant Sentences into a Short Summary
+Finding Knowledgeable Groups in Enterprise Corpora
+Fast and Space-Efficient Entity Linking in Queries
+Automatic Gloss Finding for a Knowledge Base Using Ontological Constraints
+but Verify: Predicting Contribution Quality for Knowledge Base Construction and Curation
+Entity Linking at the Tail: Sparse Signals
+On Building Entity Recommender Systems Using User Click Log and Freebase Knowledge
+WebChild: Harvesting and Organizing Commonsense Knowledge from the Web
+Personalized Entity Recommendation in Heterogeneous Information Networks with Implicit User Feedback
+Exploiting Social Relations for Sentiment Analysis in Microblogging
+From Machu_Picchu to "rafting the urubamba river": Anticipating information needs via the Entity-Query Graph
+Influence Diffusion Dynamics and Influence Maximization in Social Networks with Friend and Foe Relationships
+Distinguishing Topical and Social Groups Based on Common Identity and Bond Theory
+Wikipedia Entity Expansion and Attribute Extraction from the Web Using Semi-supervised Learning
+Rubik: Knowledge Guided Tensor Factorization and Completion for Health Data Analytics
+Bayesian Poisson Tensor Factorization for Inferring Multilateral Relations from Sparse Dyadic Event Counts
+ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering
+TimeMachine: Timeline Generation for Knowledge-Base Entities
+Exploiting Relevance Feedback in Knowledge Graph Search
+Towards Decision Support and Goal Achievement: Identifying Action-Outcome Relationships from Social Media
+Incorporating World Knowledge to Document Clustering via Heterogeneous Information Networks
+A Clustering-Based Framework to Control Block Sizes for Entity Resolution
+Discovering and Exploiting Deterministic Label Relationships in Multi-Label Learning
+Optimal Action Extraction for Random Forests and Boosted Trees
+Leveraging Knowledge Bases for Contextual Entity Exploration
+ALOJA-ML: A Framework for Automating Characterization and Knowledge Discovery in Hadoop Deployments
+Mining for Causal Relationships: A Data-Driven Study of the Islamic State
+Annotating needles in the haystack without looking: Product information extraction from emails
+Voltage Correlations in Smart Meter Data
+Collective Spammer Detection in Evolving Multi-Relational Social Networks
+Guilt by Association: Large Scale Malware Detection by Mining File-relation Graphs
+Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion
+Integrating Spreadsheet Data via Accurate and Low-Effort Extraction
+Entity Profiling with Varying Source Reliabilities
+Open Question Answering Over Curated and Extracted Knowledge Bases
+Community Detection in Graphs through Correlation
+Estimating Entity Importance via Counting Set Covers
+Fast Algorithms for Comprehensive N-point Correlation Estimates
+LIEGE: Link Entities in Web Lists with Knowledge Base
+Open Domain Event Extraction from Twitter
+Semi-supervised Learning with Mixed Knowledge Information
+Subspace Correlation Clustering: Finding Locally Correlated Dimensions in Subspace Projections of the Data
+SympGraph: A Framework for Mining Clinical Notes through Symptom Relation Graphs
+Coupled Behavior Analysis for Capturing Coupling Relationships in Group-based Market Manipulations
+Entity-Centric Topic-Oriented Opinion Summarization in Twitter
+Storytelling in Entity Networks to Support Intelligence Analysts
+A Framework for Robust Discovery of Entity Synonyms
+Linking Named Entities in Tweets with Knowledge Base via User Interest Modeling
+Denser than the densest subgraph: extracting optimal quasi-cliques with quality guarantees
+Extracting Social Events for Learning Better Information Diffusion Models
+Multi-Label Relational Neighbor Classification using Social Context Features
+SiGMa: Simple Greedy Matching for Aligning Large Knowledge Bases
+Multi-Label Classification by Mining Label and Instance Correlations from Heterogeneous Information Networks
+Exploiting User Clicks for Automatic Seed Set Generation for Entity Matching
+Mining Evidences for Named Entity Disambiguation
+Context and Entity with Neural Networks for Entity Disambiguation
+A Hybrid Neural Model for Type Classification of Entity Mentions
+Representation Learning for Measuring Entity Relatedness with Rich Information
+Medical Synonym Extraction with Concept Space Models
+Dissecting German Grammar and Swiss Passports: Open-Domain Decomposition of Compositional Entries in Large-Scale Knowledge Repositories
+Knowledge Base Completion Using Embeddings and Rules
+Inducing Probabilistic Relational Rules from Probabilistic Examples
+Embedding Semantic Relations into Word Representations
+Automated Rule Selection for Aspect Extraction in Opinion Mining
+Non-redundancy and Coherence Graph-based Extractive Summarization
+Probabilistic Knowledge-Based Programs
+How to select one preferred assertional-based repair from inconsistent and uncertain Description Logic knowledge bases?
+Literal-Based MCS Extraction
+AskWorld: Budget-Sensitive Query Evaluation for Knowledge-on-Demand
+Web Page Classification based on Uncorrelated Semi-supervised Intra-view and Inter-view Manifold Discriminant Feature Extraction
+From Raw Sensor Data to Detailed Spatial Knowledge
+A Unified Probabilistic Model of User Activities and Relations on Social Networking Sites
+Scalable Maintenance of Knowledge Discovery in an Ontology Stream
+Exchanging OWL 2 QL Knowledge Bases
+Mining for Analogous Tuples from an Entity-Relation Graph
+Verification of Inconsistency-Tolerant Knowledge and Action Bases
+Handling Open Knowledge for Service Robots
+Generalized Relational Topic Models with Fast Sampling Algorithms
+Leveraging Multi-Domain Prior Knowledge in Topic Models
+Topic Extraction from Online Reviews for Classification and Recommendation
+Towards a Knowledge Compilation Map for Heterogeneous Representation Languages
+Improving Question Retrieval in Community Question Answering Using World Knowledge
+Knowledge Compilation for Model Counting: Affine Decision Trees
+Active Learning for Teaching a Robot Grounded Relational Symbols
+Predicting Knowledge in An Ontology Stream
+Joint Modeling of Argument Identification and Role Determination in Chinese Event Extraction
+Opinion Target Extraction Using Partial-Supervised Word Alignment Model
+Learning Canonical Correlations of Paired Tensor Sets via Tensor-to-Vector Projection
+Integrating Syntactic and Semantic Analysis into the Open Information Extraction Paradigm
+Efficient Extraction and Representation of Spatial Information from Video Data
+Combining RCC5 relations with betweenness information
+Exploring Knowledge Engineering Strategies in Designing
+Answer Extraction from Passage Graph for Factoid Question Answering
+Relation Regularized Collaborative Topic Regression for Tag Recommendation
+Protein Function Prediction via Laplacian Network Partitioning Incorporating Function Category Correlations
+Integrating Semantic Relatedness and Words’ Intrinsic Features for Keyword Extraction
+Cross Lingual Entity Linking with Bilingual Topic Model
+Learning High-Order Task Relationships in Multi-Task Learning
+Boosting Cross-lingual Knowledge Linking via Concept Annotation
+A KNOWLEDGE-INTENSIVE MODEL FOR EXTRACTING INFORMATION FROM PREPOSITIONAL PHRASES
+CLASSIFYING RELATIONS BY RANKING WITH CONVOLUTIONAL NEURAL NETWORKS
+COMPOSITIONAL VECTOR SPACE MODELS FOR KNOWLEDGE BASE COMPLETION
+ENCODING DISTRIBUTIONAL SEMANTICS INTO TRIPLE-BASED KNOWLEDGE RANKING FOR DOCUMENT ENRICHMENT
+ENTITY RETRIEVAL VIA ENTITY FACTOID HIERARCHY
+ENTITY-CENTRIC COREFERENCE RESOLUTION WITH MODEL STACKING
+EVENT EXTRACTION VIA DYNAMIC MULTI-POOLING CONVOLUTIONAL NEURAL NETWORKS
+GENERATIVE EVENT SCHEMA INDUCTION WITH ENTITY DISAMBIGUATION
+IMPLICIT ROLE LINKING ON CHINESE DISCOURSE: EXPLOITING EXPLICIT ROLES AND FRAME-TO-FRAME RELATIONS
+IMPROVING NAME ENTITY RECOGNITION IN TWEETS VIA DETECTING NON-STANDARD WORDS
+IMPROVING SOCIAL RELATIONSHIPS IN FACE-TO-FACE HUMAN-AGENT INTERACTIONS: WHEN THE AGENT WANTS TO KNOW USER'S LIKES AND DISLIKES
+INCORPORATING SYNTACTIC KNOWLEDGE INTO RECURSIVE NEURAL NETWORKS FOR SENTIMENT ANALYSIS
+IS THIS MAMBA HUNTING IN JUNGLE OR DUNKING LIKE SUPER-STAR? CONTEXT-AWARE ENTITY MORPH DECODING
+JOINT INFORMATION EXTRACTION AND REASONING: A SCALABLE STATISTICAL RELATIONAL LEARNING APPROACH
+KB-LDA: JOINTLY LEARNING A KNOWLEDGE BASE OF HIERARCHY
+KNOWLEDGE GRAPH EMBEDDING VIA DYNAMIC MAPPING MATRIX
+KNOWLEDGE PORTABILITY WITH SEMANTIC EXPANSION OF ONTOLOGY LABELS
+LEARN TO ADAPT CREDIBLE KNOWLEDGE IN CROSS-LINGUAL SENTIMENT ANALYSIS
+LEARNING RELATIONAL FEATURES WITH BACKWARD RANDOM WALKS
+LEARNING SEMANTIC WORD EMBEDDINGS BASED ON ORDINAL KNOWLEDGE CONSTRAINTS
+LEARNING TO EXPLAIN ENTITY RELATIONSHIPS IN KNOWLEDGE GRAPHS
+LEARNING WORD REPRESENTATIONS BY JOINTLY MODELING SYNTAGMATIC AND PARADIGMATIC RELATIONS
+LEVERAGING LINGUISTIC STRUCTURE FOR OPEN DOMAIN INFORMATION EXTRACTION
+LOW-RANK ENTITY CLASSIFICATION WITH MINIMAL SUPERVISION
+MACHINE COMPREHENSION WITH DISCOURSE RELATIONS
+MATRIX FACTORIZATION WITH KNOWLEDGE GRAPH PROPAGATION FOR UNSUPERVISED SPOKEN LANGUAGE UNDERSTANDING
+RELATIONAL INFORMATION FOR LEARNING FROM STRUCTURED TEXT PAIRS
+S-MART: NOVEL TREE-BASED STRUCTURED LEARNING ALGORITHMS APPLIED TO TWEET ENTITY LINKING
+SEMANTIC PARSING VIA STAGED QUERY GRAPH GENERATION: QUESTION ANSWERING WITH KNOWLEDGE BASE
+SEMANTIC REPRESENTATIONS FOR DOMAIN ADAPTATION: A CASE STUDY ON THE TREE KERNEL-BASED METHOD FOR RELATION
+SEMANTICALLY SMOOTH KNOWLEDGE GRAPH EMBEDDING
+SENTIMENT-ASPECT EXTRACTION BASED ON RESTRICTED BOLTZMANN MACHINE
+STACKED ENSEMBLES OF INFORMATION EXTRACTORS FOR KNOWLEDGE-BASE POPULATION
+A DEPENDENCY-BASED NEURAL NETWORK FOR RELATION CLASSIFICATION
+A HIERARCHICAL KNOWLEDGE REPRESENTATION FOR EXPERT FINDING ON SOCIAL MEDIA
+A LEXICALIZED TREE KERNEL FOR OPEN INFORMATION EXTRACTION
+AUTOMATIC KEYWORD EXTRACTION ON TWITTER
+CROSS-LINGUAL TRANSFER OF NAMED ENTITY RECOGNIZERS WITHOUT PARALLEL CORPORA
+DOCUMENT LEVEL TIME-ANCHORING FOR TIMELINE EXTRACTION
+EMBEDDING METHODS FOR FINE GRAINED ENTITY TYPE CLASSIFICATION
+HOW WELL DO DISTRIBUTIONAL MODELS CAPTURE DIFFERENT TYPES OF SEMANTIC KNOWLEDGE?
+LEARNING LEXICAL EMBEDDINGS WITH SYNTACTIC AND LEXICOGRAPHIC KNOWLEDGE
+LEARNING SUMMARY PRIOR IN EXTRACTIVE SUMMARIZATION
+LINGUISTIC TEMPLATE EXTRACTION FOR RECOGNIZING READER-EMOTION AND EMOTIONAL RESONANCE WRITING ASSISTANCE
+RULE-BASED ENTITY LINKING FOR THE BIOMEDICAL DOMAIN
+SEMANTIC INTERPRETATION OF SUPERLATIVE EXPRESSIONS VIA STRUCTURED KNOWLEDGE BASES
+SPECTRAL SEMI-SUPERVISED DISCOURSE RELATION CLASSIFICATION
+UNSUPERVISED EXTRACTIVE SUMMARIZATION VIA COVERAGE MAXIMIZATION WITH SYNTACTIC AND SEMANTIC CONCEPTS
+Aspect Extraction with Automated Prior Knowledge Learning
+Bilingual Active Learning for Relation Classification via Pseudo Parallel Corpora
+Distant Supervision for Relation Extraction with Matrix Completion
+Encoding Explicit Relation Requirements for Relation Extraction via Joint Inference
+Extracting Opinion Targets and Opinion Words from Online Reviews with Graph Co-ranking
+Grammatical Relations in Chinese: GB-Ground Extraction and Data-Driven Parsing
+Incremental Joint Extraction of Entity Mentions and Relations
+Information Extraction over Structured Data: Question Answering with Freebase
+Knowledge-Based Question Answering as Machine Translation
+Learning Soft Linear Constraints with Application to Citation Field Extraction
+Looking at Unbalanced Specialized Comparable Corpora for Bilingual Lexicon Extraction
+Medical Relation Extraction With Manifold Models
+Robust Domain Adaptation for Relation Extraction via Clustering Consistency
+Robust Entity Clustering via Phylogenetic Inference
+The Omni-word Feature and Soft Constraint for Chinese Relation Extraction
+Toward Future Scenario Generation: Extracting Event Causality Exploiting Semantic Relation
+Validating and Extending Semantic Knowledge Bases using Video Games with a Purpose
+Weakly Supervised User Profile Extraction from Twitter
+Zero-shot Entity Extraction from Web Pages
+Argument Inference from Relevant Event Mentions in Chinese Argument Extraction
+Bootstrapping Entity Translation on Weakly Comparable Corpora
+Decentralized Entity-Level Modeling for Coreference Resolution
+Embedding Semantic Similarity in Tree Kernels for Domain Adaptation of Relation Extraction
+Extracting bilingual terminologies from comparable corpora
+Joint Event Extraction via Structured Prediction with Global Features
+Joint Inference for Fine-grained Opinion Extraction
+Joint Word Alignment and Bilingual Named Entity Recognition Using Dual Decomposition
+Learning to Extract International Relations from Political Context
+Leveraging Synthetic Discourse Data via Multi-task Learning for Implicit Discourse Relation Recognition
+Named Entity Recognition using Cross-lingual Resources: Arabic as an Example
+Resolving Entity Morphs in Censored Data
+Subtree Extractive Summarization via Submodular Maximization
+Syntactic Patterns versus Word Alignment: Extracting Opinion Targets from Online Reviews
+Transfer Learning Based Cross-lingual Knowledge Extraction for Wikipedia
+Using subcategorization knowledge to improve case prediction for translation to German
+Using Supervised Bigram-based ILP for Extractive Summarization
+Why-Question Answering using Intra- and Inter-Sentential Causal Relations
+Aggregated Word Pair Features for Implicit Discourse Relation Disambiguation
+Automatic Coupling of Answer Extraction and Information Retrieval
+Building Japanese Textual Entailment Specialized Data Sets for Inference of Basic Sentence Relations
+Context Vector Disambiguation for Bilingual Lexicon Extraction from Comparable Corpora
+Enriching Entity Translation Discovery using Selective Temporality
+Extracting Definitions and Hypernym Relations relying on Syntactic Dependencies and Support Vector Machines
+Extracting Events with Informal Temporal References in Personal Histories in Online Communities
+Generating Recommendation Dialogs by Extracting Information from User Reviews
+IndoNet: A Multilingual Lexical Knowledge Network for Indian Languages
+Joint Apposition Extraction with Syntactic and Semantic Constraints
+Learning Entity Representation for Entity Disambiguation
+Mining Equivalent Relations from Linked Data
+Relation Extraction with Distant Supervision from Incomplete Knowledge Bases
+Temporal Signals Help Label Temporal Relations
+Towards Accurate Distant Supervision for Relational Facts Extraction
+A JAVA FRAMEWORK FOR MULTILINGUAL DEFINITION AND HYPERNYM EXTRACTION
+HYENA-LIVE: FINE-GRAINED ONLINE ENTITY TYPE CLASSIFICATION FROM
+PROPMINER: A WORKFLOW FOR INTERACTIVE INFORMATION EXTRACTION AND
+Improving Context and Category Matching for Entity Search
+Experiments on Visual Information Extraction with the Faces of Wikipedia
+Acquiring Comparative Commonsense Knowledge from the Web
+Cross-Lingual Knowledge Validation Based Taxonomy Derivation from Heterogeneous Online Wikis
+Using Narrative Function to Extract Qualitative Information from Natural Language Texts
+Acquiring Commonsense Knowledge for Sentiment Analysis through Human Computation
+Querying Inconsistent Description Logic Knowledge Bases under Preferred Repair Semantics
+Capturing Relational Schemas and Functional Dependencies in RDFS
+A Knowledge Compilation Map for Ordered Real-Valued Decision Diagrams
+Knowledge Graph Embedding by Translating on Hyperplanes
+Adaptive Knowledge Transfer for Multiple Instance Learning in Image Classification
+SenticNet 3: A Common and Common-Sense Knowledge Base for Cognition-Driven Sentiment Analysis
+Prediction of Helpful Reviews Using Emotions Extraction
+Extracting Keyphrases from Research Papers Using Citation Networks
+Multilabel Classification with Label Correlations and Missing Labels
+Active Learning for Crowdsourcing Using Knowledge Transfer
+Intra-View and Inter-View Supervised Correlation Analysis for Multi-View Feature Learning
+Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization
+Lifting Relational MAP-LPs Using Cluster Signatures
+Relational One-Class Classification: A Non-Parametric Approach
+Exploiting Competition Relationship for Robust Visual Recognition
+A Unified Framework for Augmented Reality and Knowledge-Based Systems in Maintaining Aircraft
+Solving Semantic Problems Using Contexts Extracted from Knowledge Graphs
+A Knowledge Representation that Models Memory in Narrative Comprehension
+Content-Structural Relation Inference in Knowledge Base
+An EBMC-Based Approach to Selecting Types for Entity Filtering
+FACES: Diversity-Aware Entity Summarization Using Incremental Hierarchical Conceptual Clustering
+Cross-Modal Image Clustering via Canonical Correlation Analysis
+Consistent Knowledge Discovery from Evolving Ontologies
+Extracting Bounded-Level Modules from Deductive RDF Triplestores
+Automated Construction of Visual-Linguistic Knowledge via Concept Learning from Cartoon Videos
+Learning Plausible Inferences from Semantic Web Knowledge by Combining Analogical Generalization with Structured Logistic Regression
+Ontology-Based Information Extraction with a Cognitive Agent
+A Simulator of Human Emergency Mobility Following Disasters: Knowledge Transfer from Big Disaster Data
+Ontology Module Extraction via Datalog Reasoning
+An Abstract View on Modularity in Knowledge Representation
+Answering Conjunctive Queries over EL Knowledge Bases with Transitive and Reflexive Roles
+A Comparison of Qualitative and Metric Spatial Relation Models for Scene Understanding
+On the Role of Canonicity in Knowledge Compilation
+Knowledge Forgetting in Circumscription: A Preliminary Report
+Structured Embedding via Pairwise Relations and Long-Range Interactions in Knowledge Base
+Exploiting Determinism to Scale Relational Inference
+Verification of Relational Multiagent Systems with Data Types
+Cupid: Commitments in Relational Algebra
+Fast Convention Formation in Dynamic Networks Using Topological Knowledge
+Learning Word Representations from Relational Graphs
+Refer-to-as Relations as Semantic Knowledge
+Learning Entity and Relation Embeddings for Knowledge Graph Completion
+Microblog Sentiment Classification with Contextual Knowledge Regularization
+English Light Verb Construction Identification Using Lexical Knowledge
+Generating Event Causality Hypotheses through Semantic Relations
+Extracting Verb Expressions Implying Negative Opinions
+Using Frame Semantics for Knowledge Extraction from Twitter
+Extracting Adverse Drug Reactions from Social Media
+Learning Relational Kalman Filtering
+Learning Relational Sum-Product Networks
+Relational Stacked Denoising Autoencoder for Tag Recommendation
+OMNI-Prop: Seamless Node Classification on Arbitrary Label Correlation
+Representing Aggregators in Relational Probabilistic Models
+Bayesian Networks Specified Using Propositional and Relational Constructs: Combined
+Knowledge-Based Probabilistic Logic Learning
+SAT-Based Strategy Extraction in Reachability Games
+Named Entity Recognition in Travel-Related Search Queries
+HACKAR: Helpful Advice for Code Knowledge and Attack Resilience
+Language Independent Feature Extractor
+Entity Resolution in a Big Data Framework
+Using Social Relationships to Control Narrative Generation
+Knowledge Representation and Reasoning: What’s Hot
+Teamwork with Limited Knowledge of Teammates
+Assumption-Based Planning: Generating Plans and Explanations under Incomplete Knowledge
+Multi-agent Knowledge and Belief Change in the Situation Calculus
+Automatic Identification of Conceptual Metaphors with Limited Knowledge
+Gradient Networks: Explicit Shape Matching without Extracting Edges
+Joint Extraction and Labeling via Graph Propagation for Dictionary Construction
+Generating Natural-Language Video Descriptions Using Text-Mined Knowledge
+RockIt: Exploiting Parallelism and Symmetry for MAP Inference in Statistical Relational Models
+Effective Bilingual Constraints for Semi-supervised Learning of Named Entity Recognizers
+Not Quite the Same: Identity Constraints for the Web of Linked Data
+The Appraisal of Normative Events Based in In-Group and Out-Group Relations
+Automatic Extraction of Efficient Axiom Sets from Large Knowledge Bases
+Graph Traversal Methods for Reasoning in Large Knowledge-Based Systems
+Negotiated Learning for Smart Grid Agents: Entity Selection Based on Dynamic Partially Observable Features
+Integrating Digital Pens in Breast Imaging for Instant Knowledge Acquisition
+Interactive Information Extraction and Navigation to Enable Effective Link Analysis and Visualization of Unstructured Text
+Learning about Representational Modality: Design and Programming Projects for Knowledge-Based AI
+Subchloroplast Location Prediction via Homolog Knowledge Transfer and Feature Selection
+ERSOM: A Structural Ontology Matching Approach Using Automatically Learned Entity RepresentationCHUNCHENG XIANG
+Biography-Dependent Collaborative Entity Archiving for Slot FillingYU HONG
+CORE: Context-Aware Open Relation Extraction with Factorization MachinesFABIO PETRONI
+Language and Domain Independent Entity Linking with Quantified Collective ValidationHAN WANG
+Modeling Relation Paths for Representation Learning of Knowledge BasesYANKAI LIN
+Open Extraction of Fine-Grained Political OpinionDAVID BAMMAN AND NOAH A. SMITH
+Joint Mention Extraction and Classification with Mention HypergraphsWEI LU AND DAN ROTH
+Corpus-level Fine-grained Entity Typing using Contextual InformationYADOLLAH YAGHOOBZADEH AND HINRICH SCHÜTZE
+Knowledge Base Unification via Sense-based Embeddings and DisambiguationCLAUDIO DELLI BOVI
+Efficient Algorithm for Incorporating Knowledge into Topic ModelsYI YANG
+RELLY: Inferring Hypernym Relationships Between Relational PhrasesADAM GRYCNER
+Extracting Relations between Non-Standard Entities using Distant Supervision and Imitation LearningISABELLE AUGENSTEIN
+Improved Relation Extraction with Feature-Rich Compositional Embedding ModelsMATTHEW R. GORMLEY
+Towards the Extraction of Customer to Customer Suggestions in ReviewsSAPNA NEGI AND PAUL BUITELAAR
+Joint Prediction for Entity/Event-Level Sentiment Analysis using Probabilistic Soft Logic ModelsLINGJIA DENG AND JANYCE WIEBE
+Traversing Knowledge Graphs in Vector SpaceKELVIN GUU
+Representing Text for Joint Embedding of Text and Knowledge BasesKRISTINA TOUTANOVA
+Comparing Word Representations for Implicit Discourse Relation ClassificationCHLOÉ BRAUD AND PASCAL DENIS
+Extracting Condition-Opinion Relations Toward Fine-grained Opinion MiningYUKI NAKAYAMA AND ATSUSHI FUJII
+Joint Entity Recognition and DisambiguationGANG LUO
+Sieve-Based Spatial Relation Extraction with Expanding Parse TreesJENNIFER D'SOUZA AND VINCENT NG
+Name List Only? Target Entity Disambiguation in Short TextsYIXIN CAO
+C3EL: A Joint Model for Cross-Document Co-Reference Resolution and Entity LinkingSOURAV DUTTA AND GERHARD WEIKUM
+Efficient and Expressive Knowledge Base Completion Using Subgraph Feature ExtractionMATT GARDNER AND TOM MITCHELL
+Distant Supervision for Relation Extraction via Piecewise Convolutional Neural NetworksDAOJIAN ZENG
+Humor Recognition and Humor Anchor ExtractionDIYI YANG
+Flexible Models for Discovering Topic Correlation across Weakly-Related CollectionsJINGWEI ZHANG
+Classifying Relations via Long Short Term Memory Networks along Shortest Dependency PathsYAN XU
+FINET: Context-Aware Fine-Grained Named Entity TypingLUCIANO DEL CORRO
+Indicative Tweet Generation: An Extractive Summarization Problem?PRIYA SIDHAYE AND JACKIE CHI KIT CHEUNG
+Closing the Gap: Domain Adaptation from Explicit to Implicit Discourse Relations
+TSDPMM: Incorporating Prior Topic Knowledge into Dirichlet Process Mixture Models for Text Clustering
+Automatic Extraction of Time Expressions Accross Domains in French Narratives
+Knowledge Base Inference using Bridging Entities
+Answering Elementary Science Questions by Constructing Coherent Scenes using Background Knowledge
+Semi-Supervised Bootstrapping of Relationship Extractors with Distributional Semantic
+Extraction and generalisation of variables from scientific publications
+Named entity recognition with document-specific KB tag gazetteers
+Extractive Summarization by Maximizing Semantic Volume
+Discourse Planning with an N-gram Model of Relations
+"A Spousal Relation Begins with a Deletion of engage and Ends with an Addition of divorce" : Learning State Changing Verbs from Wikipedia Revision History
+Improving Distant Supervision for Information Extraction Using Label Propagation Through Lists
+An Entity-centric Approach for Overcoming Knowledge Graph Sparsity
+Aligning Knowledge and Text Embeddings by Entity Descriptions
+Semantic Relation Classification via Convolutional Neural Networks with Simple Negative Sampling
+Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
+Inferring Binary Relation Schemas for Open Information Extraction
+Abstractive Multi-document Summarization with Semantic Information Extraction
+Shallow Convolutional Neural Network for Implicit Discourse Relation Recognition
+Topical Coherence for Graph-based Extractive Summarization
+Learning to identify the best contexts for knowledge-based WSD
+The Overall Markedness of Discourse Relations
+A Hierarchical Entity-based Approach to Structuralize User Generated Content in Social Media: A Case of Yahoo! Answers
+Automatic Extraction of Morphological Lexicons from Morphologically Annotated Corpora
+Automatic Feature Engineering for Answer Selection and Extraction
+Automatic Knowledge Acquisition for Case Alternation between the Passive and Active Voices in Japanese
+Building Specialized Bilingual Lexicons Using Large Scale Background Knowledge
+Collective Opinion Target Extraction in Chinese Microblogs
+Discourse Level Explanatory Relation Extraction from Product Reviews Using First-order Logic
+Effectiveness and Efficiency of Open Relation Extraction
+Efficient Collective Entity Linking with Stacking
+Event Schema Induction with a Probabilistic Entity-Driven Model
+Exploiting Domain Knowledge in Aspect Extraction
+Harvesting Parallel News Streams to Generate Paraphrases of Event Relations
+Joint Bootstrapping of Corpus Annotations and Entity Types
+Leveraging Alternative Grammar Extraction Strategies using Lagrangian Relaxation with PCFG-LA Product Model Parsing: A Case Study with Function Labels and Binarization
+Joint Coreference Resolution and Named-Entity Linking with Multi-pass Sieves
+Open-Domain Fine-Grained Class Extraction from Web Search Queries

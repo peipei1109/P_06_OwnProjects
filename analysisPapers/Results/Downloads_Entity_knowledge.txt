@@ -1,0 +1,6 @@
+Aligning Knowledge and Text Embeddings by Entity Descriptions
+An Entity-centric Approach for Overcoming Knowledge Graph Sparsity
+Entity Query Feature Expansion using Knowledge Base Links
+Learning Entity and Relation Embeddings for Knowledge Graph Completion
+LEARNING TO EXPLAIN ENTITY RELATIONSHIPS IN KNOWLEDGE GRAPHS
+Leveraging Knowledge Bases for Contextual Entity Exploration

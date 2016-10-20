@@ -1,0 +1,11 @@
+LEARNING TO EXPLAIN ENTITY RELATIONSHIPS IN KNOWLEDGE GRAPHS
+Relation Extraction with Distant Supervision from Incomplete Knowledge Bases
+Content-Structural Relation Inference in Knowledge Base
+Structured Embedding via Pairwise Relations and Long-Range Interactions in Knowledge Base
+Refer-to-as Relations as Semantic Knowledge
+Learning Entity and Relation Embeddings for Knowledge Graph Completion
+Modeling Relation Paths for Representation Learning of Knowledge BasesYANKAI LIN
+Unsupervised Relation Extraction with General Domain Knowledge
+Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction
+Improving Word Representations with Relation Knowledge and Grouping Knowledge
+Improving Word Representations with Relation Knowledge and Grouping Knowledge

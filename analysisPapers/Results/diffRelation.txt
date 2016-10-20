@@ -1,0 +1,100 @@
+Exploiting Social Relations for Sentiment Analysis in Microblogging
+ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering
+Towards Decision Support and Goal Achievement: Identifying Action-Outcome Relationships from Social Media
+Mining for Causal Relationships: A Data-Driven Study of the Islamic State
+Voltage Correlations in Smart Meter Data
+Guilt by Association: Large Scale Malware Detection by Mining File-relation Graphs
+Fast Algorithms for Comprehensive N-point Correlation Estimates
+Subspace Correlation Clustering: Finding Locally Correlated Dimensions in Subspace Projections of the Data
+SympGraph: A Framework for Mining Clinical Notes through Symptom Relation Graphs
+Active Learning for Teaching a Robot Grounded Relational Symbols
+IMPLICIT ROLE LINKING ON CHINESE DISCOURSE: EXPLOITING EXPLICIT ROLES AND FRAME-TO-FRAME RELATIONS
+IMPROVING SOCIAL RELATIONSHIPS IN FACE-TO-FACE HUMAN-AGENT INTERACTIONS: WHEN THE AGENT WANTS TO KNOW USER'S LIKES AND DISLIKES
+JOINT INFORMATION EXTRACTION AND REASONING: A SCALABLE STATISTICAL RELATIONAL LEARNING APPROACH
+LEARNING RELATIONAL FEATURES WITH BACKWARD RANDOM WALKS
+SEMANTIC REPRESENTATIONS FOR DOMAIN ADAPTATION: A CASE STUDY ON THE TREE KERNEL-BASED METHOD FOR RELATION
+Distant Supervision for Relation Extraction with Matrix Completion
+Encoding Explicit Relation Requirements for Relation Extraction via Joint Inference
+Grammatical Relations in Chinese: GB-Ground Extraction and Data-Driven Parsing
+Medical Relation Extraction With Manifold Models
+Toward Future Scenario Generation: Extracting Event Causality Exploiting Semantic Relation
+Embedding Semantic Similarity in Tree Kernels for Domain Adaptation of Relation Extraction
+Learning to Extract International Relations from Political Context
+Aggregated Word Pair Features for Implicit Discourse Relation Disambiguation
+Building Japanese Textual Entailment Specialized Data Sets for Inference of Basic Sentence Relations
+Capturing Relational Schemas and Functional Dependencies in RDFS
+Lifting Relational MAP-LPs Using Cluster Signatures
+Relational One-Class Classification: A Non-Parametric Approach
+Content-Structural Relation Inference in Knowledge Base
+Cross-Modal Image Clustering via Canonical Correlation Analysis
+A Comparison of Qualitative and Metric Spatial Relation Models for Scene Understanding
+Structured Embedding via Pairwise Relations and Long-Range Interactions in Knowledge Base
+Exploiting Determinism to Scale Relational Inference
+Cupid: Commitments in Relational Algebra
+Learning Word Representations from Relational Graphs
+Learning Entity and Relation Embeddings for Knowledge Graph Completion
+Generating Event Causality Hypotheses through Semantic Relations
+Learning Relational Sum-Product Networks
+Relational Stacked Denoising Autoencoder for Tag Recommendation
+OMNI-Prop: Seamless Node Classification on Arbitrary Label Correlation
+Bayesian Networks Specified Using Propositional and Relational Constructs: Combined
+Using Social Relationships to Control Narrative Generation
+RockIt: Exploiting Parallelism and Symmetry for MAP Inference in Statistical Relational Models
+The Appraisal of Normative Events Based in In-Group and Out-Group Relations
+CORE: Context-Aware Open Relation Extraction with Factorization MachinesFABIO PETRONI
+Modeling Relation Paths for Representation Learning of Knowledge BasesYANKAI LIN
+RELLY: Inferring Hypernym Relationships Between Relational PhrasesADAM GRYCNER
+Extracting Relations between Non-Standard Entities using Distant Supervision and Imitation LearningISABELLE AUGENSTEIN
+Comparing Word Representations for Implicit Discourse Relation ClassificationCHLOÉ BRAUD AND PASCAL DENIS
+Flexible Models for Discovering Topic Correlation across Weakly-Related CollectionsJINGWEI ZHANG
+Closing the Gap: Domain Adaptation from Explicit to Implicit Discourse Relations
+Semi-Supervised Bootstrapping of Relationship Extractors with Distributional Semantic
+Discourse Planning with an N-gram Model of Relations
+"A Spousal Relation Begins with a Deletion of engage and Ends with an Addition of divorce" : Learning State Changing Verbs from Wikipedia Revision History
+Semantic Relation Classification via Convolutional Neural Networks with Simple Negative Sampling
+Inferring Binary Relation Schemas for Open Information Extraction
+Shallow Convolutional Neural Network for Implicit Discourse Relation Recognition
+The Overall Markedness of Discourse Relations
+Discourse Level Explanatory Relation Extraction from Product Reviews Using First-order Logic
+Effectiveness and Efficiency of Open Relation Extraction
+Harvesting Parallel News Streams to Generate Paraphrases of Event Relations
+Unsupervised Induction of Cross-lingual Semantic Relations
+Unsupervised Relation Extraction with General Domain Knowledge
+Averaged Recursive Neural Networks for Semantic Relation Classification
+Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction
+Semantic Approximate Keyword Query Based on Keyword and Query Coupling Relationship Analysis
+ExpressQ: Enhancing the Expressive Power of Relational Keyword Queries
+Predicting Relationship Occurrence Time In Heterogeneous Networks Through Dynamic Frequent Prototype Network Mining
+A Retrievability Analysis: Exploring the Relationship Between Retrieval Bias and Retrieval Performance
+Exploring Shared Subspace and Joint Sparsity for Canonical Correlation Analysis
+Modeling Topic Diffusion in Multi-Relational Bibliographic Information Networks
+Computing Multi-Relational Sufficient Statistics for  Large Databases
+PatentDom: Analyzing Technology Relationship on Multi-View Patent Graphs
+Improving Word Representations with Relation Knowledge and Grouping Knowledge
+Online User Location Inference Exploiting Spatiotemporal Correlations in Social Streams
+Optimizing Multi-Relational Factorization Models for Multiple Target Relations
+Active Exploration in Networks: Using Probabilistic Relationships for Learning and Inference
+What a Nasty day: Exploring Mood-Weather Relationship from Twitter
+A Problem-Action Relation Extraction Based on Causality Patterns of Clinical Events in Discharge Summaries
+Characterizing the Relation between Query Sequences and User Satisfaction
+Local Correlation Detection with Linearity Enhancement in Streaming Data
+A New Operator for Efficient Stream-Relation Join Processing in Data Streaming Engines
+Semantic Approximate Keyword Query Based on Keyword and Query Coupling Relationship Analysis
+ExpressQ: Enhancing the Expressive Power of Relational Keyword Queries
+Predicting Relationship Occurrence Time In Heterogeneous Networks Through Dynamic Frequent Prototype Network Mining
+A Retrievability Analysis: Exploring the Relationship Between Retrieval Bias and Retrieval Performance
+Exploring Shared Subspace and Joint Sparsity for Canonical Correlation Analysis
+Modeling Topic Diffusion in Multi-Relational Bibliographic Information Networks
+Computing Multi-Relational Sufficient Statistics for  Large Databases
+PatentDom: Analyzing Technology Relationship on Multi-View Patent Graphs
+Improving Word Representations with Relation Knowledge and Grouping Knowledge
+Online User Location Inference Exploiting Spatiotemporal Correlations in Social Streams
+Optimizing Multi-Relational Factorization Models for Multiple Target Relations
+Active Exploration in Networks: Using Probabilistic Relationships for Learning and Inference
+What a Nasty day: Exploring Mood-Weather Relationship from Twitter
+A Problem-Action Relation Extraction Based on Causality Patterns of Clinical Events in Discharge Summaries
+	Relevance Scores for Triples from Type-Like Relations
+Social and Categorical Correlations for Point-of-Interest Recommendations
+	On The Relation Between Assessor�s Agreement and Accuracy in Gamified Relevance Assessment
+The Correlation between Cluster Hypothesis Tests and the Effectiveness of Cluster-Based Retrieval
+On Correlation of Absence Time and Search Effectiveness

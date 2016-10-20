@@ -1,0 +1,30 @@
+A Hybrid Neural Model for Type Classification of Entity Mentions
+An EBMC-Based Approach to Selecting Types for Entity Filtering
+Bootstrapping Entity Translation on Weakly Comparable Corpora
+Context and Entity with Neural Networks for Entity Disambiguation
+Cross Lingual Entity Linking with Bilingual Topic Model
+CROSS-LINGUAL TRANSFER OF NAMED ENTITY RECOGNIZERS WITHOUT PARALLEL CORPORA
+Effective Bilingual Constraints for Semi-supervised Learning of Named Entity Recognizers
+EMBEDDING METHODS FOR FINE GRAINED ENTITY TYPE CLASSIFICATION
+Entity Profiling with Varying Source Reliabilities
+ENTITY RETRIEVAL VIA ENTITY FACTOID HIERARCHY
+ENTITY-CENTRIC COREFERENCE RESOLUTION WITH MODEL STACKING
+Estimating Entity Importance via Counting Set Covers
+Exploiting User Clicks for Automatic Seed Set Generation for Entity Matching
+Fast and Space-Efficient Entity Linking in Queries
+GENERATIVE EVENT SCHEMA INDUCTION WITH ENTITY DISAMBIGUATION
+IMPROVING NAME ENTITY RECOGNITION IN TWEETS VIA DETECTING NON-STANDARD WORDS
+Incremental Joint Extraction of Entity Mentions and Relations
+Joint Entity Recognition and DisambiguationGANG LUO
+Language and Domain Independent Entity Linking with Quantified Collective ValidationHAN WANG
+Learning Entity Representation for Entity Disambiguation
+LEARNING TO EXPLAIN ENTITY RELATIONSHIPS IN KNOWLEDGE GRAPHS
+Leveraging Knowledge Bases for Contextual Entity Exploration
+LOW-RANK ENTITY CLASSIFICATION WITH MINIMAL SUPERVISION
+Mining Evidences for Named Entity Disambiguation
+Mining for Analogous Tuples from an Entity-Relation Graph
+Representation Learning for Measuring Entity Relatedness with Rich Information
+Resolving Entity Morphs in Censored Data
+RULE-BASED ENTITY LINKING FOR THE BIOMEDICAL DOMAIN
+Storytelling in Entity Networks to Support Intelligence Analysts
+Zero-shot Entity Extraction from Web Pages

@@ -1,0 +1,63 @@
+Entity Linking at the Tail: Sparse Signals
+On Building Entity Recommender Systems Using User Click Log and Freebase Knowledge
+Personalized Entity Recommendation in Heterogeneous Information Networks with Implicit User Feedback
+From Machu_Picchu to "rafting the urubamba river": Anticipating information needs via the Entity-Query Graph
+Wikipedia Entity Expansion and Attribute Extraction from the Web Using Semi-supervised Learning
+ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering
+A Clustering-Based Framework to Control Block Sizes for Entity Resolution
+Entity-Centric Topic-Oriented Opinion Summarization in Twitter
+A Framework for Robust Discovery of Entity Synonyms
+IS THIS MAMBA HUNTING IN JUNGLE OR DUNKING LIKE SUPER-STAR? CONTEXT-AWARE ENTITY MORPH DECODING
+S-MART: NOVEL TREE-BASED STRUCTURED LEARNING ALGORITHMS APPLIED TO TWEET ENTITY LINKING
+Robust Entity Clustering via Phylogenetic Inference
+Decentralized Entity-Level Modeling for Coreference Resolution
+Joint Word Alignment and Bilingual Named Entity Recognition Using Dual Decomposition
+Named Entity Recognition using Cross-lingual Resources: Arabic as an Example
+Enriching Entity Translation Discovery using Selective Temporality
+HYENA-LIVE: FINE-GRAINED ONLINE ENTITY TYPE CLASSIFICATION FROM
+Improving Context and Category Matching for Entity Search
+FACES: Diversity-Aware Entity Summarization Using Incremental Hierarchical Conceptual Clustering
+Learning Entity and Relation Embeddings for Knowledge Graph Completion
+Named Entity Recognition in Travel-Related Search Queries
+Entity Resolution in a Big Data Framework
+Negotiated Learning for Smart Grid Agents: Entity Selection Based on Dynamic Partially Observable Features
+ERSOM: A Structural Ontology Matching Approach Using Automatically Learned Entity RepresentationCHUNCHENG XIANG
+Biography-Dependent Collaborative Entity Archiving for Slot FillingYU HONG
+Corpus-level Fine-grained Entity Typing using Contextual InformationYADOLLAH YAGHOOBZADEH AND HINRICH SCHÜTZE
+Joint Prediction for Entity/Event-Level Sentiment Analysis using Probabilistic Soft Logic ModelsLINGJIA DENG AND JANYCE WIEBE
+Name List Only? Target Entity Disambiguation in Short TextsYIXIN CAO
+C3EL: A Joint Model for Cross-Document Co-Reference Resolution and Entity LinkingSOURAV DUTTA AND GERHARD WEIKUM
+FINET: Context-Aware Fine-Grained Named Entity TypingLUCIANO DEL CORRO
+An Entity-centric Approach for Overcoming Knowledge Graph Sparsity
+Aligning Knowledge and Text Embeddings by Entity Descriptions
+Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
+A Hierarchical Entity-based Approach to Structuralize User Generated Content in Social Media: A Case of Yahoo! Answers
+Efficient Collective Entity Linking with Stacking
+Event Schema Induction with a Probabilistic Entity-Driven Model
+Joint Bootstrapping of Corpus Annotations and Entity Types
+Joint Coreference Resolution and Named-Entity Linking with Multi-pass Sieves
+Microblog Entity Linking by Leveraging Multiple Posts
+Robust Entity Linking via Random Walks
+Forest-Based Dynamic Sorted Neighborhood Indexing for Real-Time Entity Resolution
+Generative Modeling of Entity Comparisons in Text
+Entity oriented Task extraction from query logs
+or Serendipitous Entity Search on User-generated Content
+Entity-Centric Document Filtering: Boosting Feature Mapping through Meta-Features
+Structured Positional Entity Language Model for Enterprise Entity Retrieval
+Learning Open-domain Comparable Entity Graphs from User Search Queries
+Entity Disambiguation in Anonymized Graphs Using Graph Kernels
+Re-ranking for Joint Named-Entity Recognition and Linking
+Mining Entity Attribute Synonyms via Compact Clustering
+Robust Entity Linking via Random Walks
+Forest-Based Dynamic Sorted Neighborhood Indexing for Real-Time Entity Resolution
+Generative Modeling of Entity Comparisons in Text
+Entity oriented Task extraction from query logs
+	Fielded Sequential Dependence Model for Ad-Hoc Entity Retrieval in the Web of Data
+	An Entity Class-Dependent Discriminative Mixture Model for Cumulative Citation Recommendation
+Predicting Previous Version of a Product Entity
+Learning Sufficient Queries for Entity Filtering
+Query Performance Prediction for Entity Retrieval
+Entity Query Feature Expansion using Knowledge Base Links
+A Test Collection for Entity Search in DBpedia
+A Weakly-Supervised Detection of Entity Central Documents in a Stream
+The Cluster Hypothesis for Entity Oriented Search

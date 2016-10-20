@@ -1,0 +1,7 @@
+Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction
+Improving Word Representations with Relation Knowledge and Grouping Knowledge
+Learning Entity and Relation Embeddings for Knowledge Graph Completion
+LEARNING TO EXPLAIN ENTITY RELATIONSHIPS IN KNOWLEDGE GRAPHS
+Refer-to-as Relations as Semantic Knowledge
+Relation Extraction with Distant Supervision from Incomplete Knowledge Bases
+Unsupervised Relation Extraction with General Domain Knowledge

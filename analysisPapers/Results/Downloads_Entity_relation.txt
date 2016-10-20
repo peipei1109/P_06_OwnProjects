@@ -1,0 +1,5 @@
+ClusType_ Effective Entity Recognition and Typing by Relation Phrase-Based Clustering
+Incremental Joint Extraction of Entity Mentions and Relations
+Learning Entity and Relation Embeddings for Knowledge Graph Completion
+LEARNING TO EXPLAIN ENTITY RELATIONSHIPS IN KNOWLEDGE GRAPHS
+Mining for Analogous Tuples from an Entity-Relation Graph
